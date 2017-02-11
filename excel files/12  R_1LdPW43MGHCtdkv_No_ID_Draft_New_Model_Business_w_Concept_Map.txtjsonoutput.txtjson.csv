@@ -1,0 +1,53 @@
+category,percentage,id,sampling_error,name
+personality,0.9992535963770272,Openness,0.0466583528,Openness
+personality,0.9664695233608732,Adventurousness,0.04172454656,Adventurousness
+personality,0.899086454149681,Artistic interests,0.08636634424,Artistic interests
+personality,0.06783178882635355,Emotionality,0.03899300712,Emotionality
+personality,0.7373387580327768,Imagination,0.05354668288,Imagination
+personality,0.998850186121419,Intellect,0.04512199,Intellect
+personality,0.9998051324334045,Liberalism,0.07005197376,Authority-challenging
+personality,0.6241529178923111,Conscientiousness,0.05937327824,Conscientiousness
+personality,0.8461972639164519,Achievement striving,0.08205424464000001,Achievement striving
+personality,0.8453935785888822,Cautiousness,0.07642031368,Cautiousness
+personality,0.21005924098168505,Dutifulness,0.049515841760000005,Dutifulness
+personality,0.2679303006727696,Orderliness,0.056722942479999997,Orderliness
+personality,0.6123563722676842,Self-discipline,0.0405777648,Self-discipline
+personality,0.9136065025023057,Self-efficacy,0.0747751396,Self-efficacy
+personality,0.8007818384186117,Extraversion,0.04534282736,Extraversion
+personality,0.9775751206182663,Activity level,0.06220680208,Activity level
+personality,0.9722822817827483,Assertiveness,0.06750949112,Assertiveness
+personality,0.02645956433810187,Cheerfulness,0.08487809248,Cheerfulness
+personality,0.6148181060752933,Excitement-seeking,0.07087930096,Excitement-seeking
+personality,0.2074213563364739,Friendliness,0.06233525536,Outgoing
+personality,0.19705120209924093,Gregariousness,0.05052071648,Gregariousness
+personality,0.025085368913481954,Agreeableness,0.08115062664,Agreeableness
+personality,0.37696894397008335,Altruism,0.056327499600000004,Altruism
+personality,0.5360168890512726,Cooperation,0.06805810344,Cooperation
+personality,0.009654780911839134,Modesty,0.04408354264,Modesty
+personality,0.12469618596364673,Morality,0.0517524944,Uncompromising
+personality,0.6831340473168601,Sympathy,0.0828654492,Sympathy
+personality,0.9353704783363745,Trust,0.04383844496,Trust
+personality,0.7691114264359686,Neuroticism,0.07540761632,Emotional range
+personality,0.25982603365625523,Anger,0.07966216232,Fiery
+personality,0.2790920989227542,Anxiety,0.0434517672,Prone to worry
+personality,0.6728731560715808,Depression,0.04574522616,Melancholy
+personality,0.015094367311319301,Immoderation,0.042971288319999995,Immoderation
+personality,0.5159837600892446,Self-consciousness,0.04535124768,Self-consciousness
+personality,0.21556038873455297,Vulnerability,0.06755550408,Susceptible to stress
+needs,0.12403660193441768,Challenge,0.06781925207999999,Challenge
+needs,0.04675813475821278,Closeness,0.0667331768,Closeness
+needs,0.9540750356497443,Curiosity,0.09270880152,Curiosity
+needs,0.09817090922792193,Excitement,0.08503393496,Excitement
+needs,0.007020607186823402,Harmony,0.0836028452,Harmony
+needs,0.04839718910743246,Ideal,0.07625519432,Ideal
+needs,0.1745666030171198,Liberty,0.11395108224,Liberty
+needs,0.34048333215458254,Love,0.07684704368,Love
+needs,0.21361253449633177,Practicality,0.07041387576,Practicality
+needs,0.12330323082328687,Self-expression,0.06614881144000001,Self-expression
+needs,0.1315762203826097,Stability,0.08363190736,Stability
+needs,0.40966572711194105,Structure,0.0644920976,Structure
+values,0.004867896906530889,Conservation,0.060841202319999996,Conservation
+values,0.7149310588779719,Openness to change,0.0571655944,Openness to change
+values,0.016602788273227975,Hedonism,0.10417313864000001,Hedonism
+values,0.13213327110691103,Self-enhancement,0.07947268168,Self-enhancement
+values,0.12663025496668345,Self-transcendence,0.0589270776,Self-transcendence
